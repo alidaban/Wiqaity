@@ -1,0 +1,253 @@
+.about-us-box{
+    padding: 0 81px;
+    position: relative;
+    top: auto;
+    padding-bottom: 53px;
+    margin-top: 0;
+
+}
+
+.profile-photo-back{
+        width: 120px;
+    height: 120px;
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.3);
+    padding: 6px;
+    top: -60px;
+    overflow: hidden;
+    background-color: white;
+    position: absolute;
+
+}
+
+.profile-photo-border{
+    border: #e7e7e7 solid 1px;
+    overflow: hidden;
+    position: relative;
+    width: 108px;
+    height: 108px;    
+}
+
+.profile-photo-back img{
+    width: 108px;
+    object-fit: cover;
+}
+
+.btn i{
+    margin-left: 20px;
+}
+.btn-1{
+    background-color: #fdc24f;
+    color: white;
+    margin-left: 17px;
+    -webkit-box-shadow: 0px 5px 0px 0px rgba(185, 140, 54, 1);
+    -moz-box-shadow: 0px 5px 0px 0px rgba(185, 140, 54, 1);
+    box-shadow: 0px 5px 0px 0px rgba(185, 140, 54, 1);
+}
+.btn-2{
+    width: 155px;
+    height: 30px;
+    background-color: #686769;
+    color: white;
+    -webkit-box-shadow: 0px 5px 0px 0px rgba(49, 48, 50, 1);
+    -moz-box-shadow: 0px 5px 0px 0px rgba(49, 48, 50, 1);
+    box-shadow: 0px 5px 0px 0px rgba(49, 48, 50, 1);
+}
+.btn-3{
+    width: 155px;
+    height: 30px;
+    background-color: #38972c;
+    color: white;
+    margin-right: 270px;
+    -webkit-box-shadow: 0px 5px 0px 0px rgba(36, 105, 27, 1);
+    -moz-box-shadow: 0px 5px 0px 0px rgba(36, 105, 27, 1);
+    box-shadow: 0px 5px 0px 0px rgba(36, 105, 27, 1);
+    
+    display: none;
+}
+.btns-style{
+    display: flex;
+    margin-top: 20px;
+
+
+}
+
+.about-us-box {
+    background-color: white;
+    max-width: 694px;
+}
+
+.wall {
+    background-color: #FEF9E6;
+    padding: 0;
+    padding-top: 94px;
+}
+.wall-1 {
+    background-color: #FEF9E6;
+}
+
+.row-1{
+    margin-bottom: 37px;
+
+}
+
+input{
+    width: 372px;
+    height: 38px;
+    border-radius: 7px;
+    border: 1px #777777 solid;
+    padding: 0 7px;
+}
+
+.profile-select{
+    
+    width: 373px;
+    height: 37px;
+    border: 1px black solid;
+    border-radius: 7px;
+}
+
+form .row{
+    margin-bottom: 16px;
+}
+
+.profile-date{
+    width: 372px;
+    height: 37px;
+    border-radius: 7px;    border: 1px black solid;
+}
+
+.input-group-addon {
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: white;
+    border: 1px solid white;
+    padding: 0;
+
+}
+
+.form-control-profile{
+    width: 372px;
+    height: 37px;
+    border: 1px #777 solid;
+    border-radius: 7px;
+} 
+
+.open{
+    display: block;
+}
+
+.confirm-block-box{
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.3);
+    max-width: 485px;
+    max-height: 180px;
+    position: fixed;
+    background-color: white;
+    color: #b52243;
+    z-index: 10;
+    padding: 15px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    display: none;
+    
+
+    
+
+}
+
+.block-cont{
+    padding: 2px 28px;
+}
+.block-cont div:first-child{
+    font-weight: 700;
+}
+
+.block-cont div,input{
+    margin-bottom: 10px;
+}
+
+.btn-4{
+    background-color: #b52243;
+    color: white;
+    margin: auto;
+    display: block;
+    width: 90px;
+    height: 35px;
+    
+
+}
+
+.btn-4:active,.btn-4:hover, .btn-4:focus{
+    color: white;
+}
+
+.btn-2:active,.btn-2:hover, .btn-2:focus{
+    color: white;
+}
+
+.btn-3:active,.btn-3:hover, .btn-3:focus{
+    color: white;
+}
+
+.profile-div{
+
+    left: -63px;
+    top: 4px;
+    position: absolute;
+    font-size: 29px;
+}
+.dropdown-menu-more-pro-1  {
+    position: absolute;
+    top: 35px;
+    left: -69px;
+    width: 2%;
+    text-align: center;
+    padding: 0px 0;
+}
+
+.dropdown-menu li {
+    display: block;
+    padding: 10px;
+    font-size: 14px;
+}
+.profile-title{
+    font-size: 32px;
+    text-align: center;
+    padding: 35px;
+}
+
+.about-us-box{
+    margin-bottom: 0;
+}
+
+.blus-circled{
+    color: #ebe1e3;
+    z-index: 10;
+}
+
+.blus-back{
+    text-align: center;
+    position: absolute;
+    line-height: 25px;
+    border-radius: 90px;
+    background: #1e900f;
+    width: 25px;
+    height: 25px;
+    right: 0;
+    top: 79%;
+
+    
+}
+
+.doc-name{
+    font-size: 16pt;
+
+}
+
+.more-color{   
+    color: #B0B0B0;
+} 
+
+.margin-buttom-form{
+    line-height: 38px;
+}

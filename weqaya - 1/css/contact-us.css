@@ -1,0 +1,140 @@
+.wall{
+    padding: 20px 0;
+}
+.contact-box{
+    background-color: white;
+    max-width: 850px;
+    margin: auto;
+    padding: 15px 25px;
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.3);
+
+}
+
+
+.contact-welcome{
+    text-align: center;
+}
+
+.contact-welcome i{
+    color: #FC9DB4;
+    font-size: 90px;
+
+}
+.contact-welcome h1{
+    font-size: 25px;
+    margin-top: -16px;
+    margin-bottom: 20px;
+
+
+    
+}
+
+.send-p{
+    font-size: 18px;
+
+}
+form{
+    margin-right: 35px;
+}
+form input{
+    display: block;
+}
+
+input{
+
+    width: 300px;
+    height: 35px;
+    border: none;
+    margin: auto;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+    padding: 0 15px;
+}
+textarea{
+    margin: auto;
+    margin-bottom: 15px;
+    display: block;
+    width:300px;
+    height: 200px;
+    border-radius: 10px;
+    border: 1px solid black;
+
+
+
+}
+.submit-btn{
+    width: 118px;
+    background-color: #414042;
+    color: white;
+    margin-right: auto;
+
+}
+
+.f-icon {
+    width: 40px;
+    height: 40px;
+    background-color: #3B5998;
+    line-height: 40px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    margin-left: 20px;
+    transition: background-color .3s;
+}
+.y-icon{
+    width: 40px;
+    height: 40px;
+    background-color: #FF0000;
+    line-height: 40px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    margin-left: 20px;
+    transition: background-color .3s;
+}
+
+.t-icon{
+    
+    width: 40px;
+    height: 40px;
+    background-color: #15A0F2;
+    line-height: 40px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    margin-left: 20px;
+    transition: background-color .3s;
+}
+.contact-info p,a{
+    color: black;
+    
+}
+.p-info{
+    margin-bottom: 12px;
+
+}
+.contact-info{
+    text-align: center;
+    padding: 150px 0;
+}
+.p-info i{
+    margin-left: 10px;
+}
+
+.ion-iphone{
+    font-size: 18px;
+
+}
+.margin-left{
+    margin-left: 0;
+
+}
+
+.social-icon{
+        margin-top: 10px;
+
+}

@@ -1,0 +1,306 @@
+/*special cases*/
+@media screen and (max-width: 1346px){
+    .text-box-sm{
+            width: 99%;
+
+    }
+    
+}
+
+@media screen and (min-width: 1275px){
+    .main-nav {       
+    display: block;
+    }
+         .icon{
+        display: none;
+        
+    }
+}
+@media screen and (max-width: 1275px){
+.main-nav {       
+    display: none;
+    }
+         .icon{
+        display: block;
+        
+    }
+
+}
+
+
+/*to big tablets 1024-1200*/
+@media screen and (max-width: 1200px){
+    .LATEST-NEWS {
+    padding: 90px 0;
+}
+    .sign-box {    margin: 5% 20%;
+}
+
+    .long-copy{
+       
+        text-align: center;
+    }
+    .social-div {
+        margin-top: 25px;
+    }
+  
+    
+   /* .staff-row{
+        width: 90%;
+        margin: 0 5%;
+        text-align: center;
+    }
+    
+    .test-col{
+        max-width: 90%;
+        margin: 0 5%;
+        text-align: center;
+        
+    }
+   
+   */
+     /*.ico-div {
+            margin-top: 53%;
+            margin-left: 10px;
+
+    }*/
+     .up-marg {
+        margin-top: 22%;
+    }
+    .low-marg {
+        margin-top: 47%;
+        margin-left: 22px;
+    }
+    .OUR-NUMBER {
+        padding: 36px 11px;
+    }
+    .FOOTER1{
+            padding: 90px 20px;
+    }
+}
+
+/*small tablet to big tablets 768-1023*/
+@media screen and (max-width: 1023px){
+
+    
+    
+    
+   
+    
+    
+    .ico-div {
+    margin-top: 63%;
+    margin-left: 13px;
+}
+    .section-features{
+        padding: 80px 0;
+    }
+    .up-marg{
+        margin-top: 27%;
+        margin-left: 13px;
+    }
+    .low-marg{
+            margin-top: 58%;
+
+    }
+    .staff-row{
+        width: 90%;
+        margin: 5%;
+    }
+    .body{
+        font-size: 18px;
+        
+    }
+    .main-nav{
+        margin: 0;
+    }
+    .long-copy{
+        
+        margin: 0;
+        width: 90%;
+        margin-left: 5%;
+    }
+    
+    .contact-form {
+        width: 80%;
+        margin-left: 5%;
+    }
+  
+}
+
+/*small phones and tablet 767-481*/
+@media screen and (max-width: 767px){
+    .team-box {
+    width: 60%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    TEXT-ALIGN: CENTER;
+    MARGIN: auto;
+}
+    
+    
+    .sub-nav li {
+        margin-bottom: 13px;}
+    
+    .hero-text-box p{
+        font-size: 15px;
+
+        
+    }
+    .inner-box {
+    width: 100%;
+        height: 340px;}
+    .ico-div {
+        margin-top: 50%;}
+    
+     .hero-text-box h1{
+         font-size: 180%;
+    }
+    .gal-box3{
+        
+    height: auto;
+    }
+    .modal-dialog {
+        margin: 30px 10%;}
+    
+    .sign-box {
+        margin: 5% 8%;
+        }
+
+    
+    .OUR-CUSTOMERS{
+            padding: 90px 36px;
+    }
+    .plan-box{
+        margin-bottom: 20px;
+    }
+    
+    
+    
+    
+    
+    .logo{
+        display: none;
+    }
+    .social-icons{
+        margin-right: 200px;
+    }
+    .main-nav {
+        text-align: center;
+    }
+    .box{
+        width: 50%;
+        height: auto;
+        margin: auto auto;
+    }
+    .footer-nav{
+        margin-left: 70px;
+        margin-bottom: 15px;
+    }
+      
+     .project-showcase li{
+        width: 50%;
+    }
+    .main-nav {
+        padding-left: 0;
+    }
+    .nav-respon{
+   padding-left: 0;
+    font-size: 17px;
+    margin-top: 21px;}
+    .margin-nav-buttom {
+    margin-bottom: 22px;
+    display: inline-grid;
+        
+    }
+    .OUR-NUMBER{
+        text-align: center;
+    }
+    .Get-Started{ padding: 105px 123px;} 
+    .gal-box { width:340px;}
+   
+
+}
+/*---small phones--->*/
+@media screen and (max-width: 670px){
+    .hero-text-box{
+        width: 68%;
+        font-size: 162%;
+
+}
+    
+}
+@media screen and (max-width: 480px){
+    .hero-text-box{
+            margin-bottom: 10px;
+        width: 77%;
+
+    }
+    .sign-box {
+        margin: 5% 1%;
+    }
+    .hero-text-box p{
+            margin-bottom: 16px;
+
+    }
+        .hero-text-box h1{
+
+        font-size: 112%;
+    }
+
+    .nav-respon {
+            margin-top: 55px;
+
+    }
+    
+    
+
+        .main-nav li {
+    margin-left: 13px;
+        margin-top: 3%;
+
+}
+       /* .icon{
+        display: block;
+        
+    }*/
+   
+    .Get-Started {
+    padding: 96px 7px;
+}
+    .LATEST-NEWS {
+    padding: 35px 10px;
+}
+    .ico-div{
+        margin-top: 50%;
+    }
+ 
+    .OUR-SKILL {
+    padding: 62px 17px;
+    text-align: center;
+}
+    .sub-nav{
+        display: block;
+    }
+    .social-icons{
+        margin: 0 auto;
+    }
+    h1{
+        font-size: 90%;
+    }
+    .section-features{
+        padding: 0 0;
+    }
+    .project-showcase li{
+        width: 100%;
+    }
+    
+    .plan-box div h3{
+    font-size: 20px;
+        font-weight: 300;
+    text-align: center;
+}
+    .box{margin-bottom: 15px;}           
+           
+}
